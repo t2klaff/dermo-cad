@@ -17,6 +17,8 @@ ROC Area score was 0.962. These results were achieved using the full feature set
 88 features describing each lesion in terms of its asymmetry, border structure, colour, and 
 differential structures, according to the ABCD dermoscopy algorithm.
 
+Full report with references included __(FYP - Final Report.pdf)__
+
 ### Prerequisites:
 
 Install OpenCV version 4.5.5 in the same location as FYP.jar (newer versions _might_ work)
